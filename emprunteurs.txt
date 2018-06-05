@@ -1,0 +1,9 @@
+WANG ; Antoine ; 16 ; rue Auguste Goust ; 78200 ; Mantes la Jolie
+DOES ; John ; 52 ; rue de Paris ; 78130 ; Versailles
+CARON ; Fabien ; 3 ; avenue des Beaux arts ; 91630 ; Montgeron
+Caron ; Fabien ; 2 ; Marceau ; 94210 ; st Maur
+GENDRON ; Lou ; 123 ; AFZE ; 78200 ; Mantes la Jolie
+Caron ; Fabien ; 2 ; Marceau ; 94210 ; st Maur
+Pilippe  ; Tom ; 3 ; jean le lac ; 75010 ; Paris
+Legrand ; vincent ; 54 ; La manche ; 77203 ; Noce
+dupont ; Julien  ; 83 ; Laposte ; 23145 ; Murailles
